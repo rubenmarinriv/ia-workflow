@@ -17,4 +17,4 @@ Cuando se solicite iniciar un nuevo desarrollo:
 4. Actualiza `master` con los últimos cambios del repositorio remoto.
 5. Crea una nueva rama desde `master` con el nombre seleccionado y cámbiate a ella.
 6. Genera el manifest `sf project generate manifest --name {código}_{descripción} --output-dir manifest/minors --source-dir .github`.
-7. Informa al usuario de que todo está listo para comenzar el desarrollo y no hagas ni preguntes nada más.
+7. Informa al usuario de que todo está listo para iniciar el desarrollo y no hagas ni preguntes nada más.
